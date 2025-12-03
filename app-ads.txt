@@ -1,1 +1,2 @@
 google.com, pub-1039872423947057, DIRECT, f08c47fec0942fa0
+anzu.io, 6923eb274e633a6eee275930, DIRECT, 1c1b7acf4992136c
